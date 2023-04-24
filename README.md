@@ -1,9 +1,11 @@
 ## Theme: Speech_Emotion_Classifier
 
 Made by inspiring https://github.com/asarsembayev/audio_classifier
+```
 Used Conv2d NN-architecture in PyTorch library
 
 Accuracy on test: 83%
+```
 
 Used dataset: RAVDESS
 
